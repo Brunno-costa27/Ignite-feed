@@ -16,7 +16,7 @@ Ignite feed é um projeto simples que simula o feed das redes sociais,<br> com f
 ## Como usar
 
 1. Clonar repositório
-``git clone https://github.com/codewithmiguel/ignite-feed.git ``
+``git clone https://github.com/Brunno-costa27/Ignite-feed``
 
 2. Instalar dependências
 ``yarn`` ou ``npm i``
