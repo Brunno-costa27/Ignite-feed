@@ -1,0 +1,26 @@
+.header {
+    background: var(--gray-800);
+    display: flex;
+    justify-content: center;
+    padding: 1.25rem 0;
+    gap: 16px;
+}
+
+.header img {
+    height: 2rem; 
+    display: flex;
+
+}
+
+.header p{
+    height: 2rem; 
+    color: var(--white);
+    font-family: Roboto;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 160%;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
